@@ -1,17 +1,13 @@
 ![Hi 👋, I'm Ahmet. I’m a web developer. <p>I write code, get bugs, and write code again.</p>](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
 # 💫 About Me:
-Hi 👋, I'm Ahmet. I’m a web developer. I write code, get bugs, and write code again.<br>
+Hi 👋, I’m Ahmet, a full-stack developer. I mostly work on my own projects. I build clean systems, write APIs, and work with databases.
 
-🔧 I work with both backend and frontend, but if you ask me, I’d always choose backend. I love writing APIs and working with databases. I use Node.js, Express.js, and PostgreSQL, but I’m also pretty familiar with MongoDB, Redis, and Sequelize. And yes, Nest.js is in the mix too!<br>
+Like many developers, I spend a lot of my day fixing bugs and drinking coffee. At the end of the day, I often think about why the bug I fixed is working now.
 
-🌱 Recently, I’ve been learning Go. Its static typing, JavaScript-like syntax, and the ease of writing microservices caught my attention. Plus, it has a cute mascot: the Gopher! That’s one more reason I like Go.<br>
+My main rule is simple: write clean and easy-to-read code. This matters to me because I will probably read the same code again tomorrow.
 
-💻 On the frontend, I work with Vue.js and Tailwind. I write unit tests with Jest because I believe every line of code deserves to be tested. When I’m not coding, you’ll find me watching software videos on YouTube, hanging out on Discord, or reading tech articles.<br>
-
-🤝 I’m developing a platform to help people find project partners. In the future, I hope to build a successful team and create awesome projects. Who knows, maybe I'll even dive into Web3!<br>
-
-🎓 By the way, I hold an associate degree in Computer Programming from Mardin Artuklu University.
+My goal is to build useful applications that solve real problems. In short, my life is about code, fixing things, and doing them better next time.
 
 
 ## 🌐 Socials:
